@@ -1,0 +1,22 @@
+/** {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.contenedor {
+  margin: 5em auto;
+}*/
+
+body {
+  background: rgb(233 235 247);
+  padding-top: 90px;
+  font-family: "Sriracha", cursive;
+  color: rgb(0, 0, 0);
+}
+
+@media (max-width: 37.5rem) {
+  body {
+    font-size: 1.2em;
+  }
+}
